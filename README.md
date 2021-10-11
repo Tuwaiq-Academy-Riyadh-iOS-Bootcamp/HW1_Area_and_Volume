@@ -1,4 +1,4 @@
-# HW_DAY01: Area and Volume
+# Area and Volume
 
 Write a program that begins by reading a radius, r, from the user. The program will
 continue by computing and displaying the area of a circle with radius r and the
