@@ -1,7 +1,7 @@
 # Area and Volume
 
 Write a program that begins by reading a radius, r, from the user. The program will
-continue by computing and displaying the area of a circle with radius r and the
+continue by computing and displaying the area of a c with radius r and the
 volume of a sphere with radius r. Use the pi constant in the built in data types in your
 calculations and round the output to the nearest whole number.
 
