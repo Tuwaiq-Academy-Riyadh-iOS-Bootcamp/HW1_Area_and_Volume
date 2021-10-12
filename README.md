@@ -20,3 +20,11 @@ volume of a sphere is computed using the formula `volume = 4πr^3 /3`.
 > Enter a radius: 2
 > 
 > Area is: 13.0 and Volume is: 34.0
+
+print("Enter a radius: ", terminator: "")
+let r = Utils.readDouble()
+let area = Double.pi * pow(r,2)
+let volume = 4 * Double.pi * pow(r,3) / 3
+print("Area is: ", round(area))
+print("Volume is: ", round(volume))
+
